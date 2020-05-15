@@ -1,0 +1,28 @@
+hl {
+    text-align: center;
+    font-family: Arial;
+    background-color: deepskyblue;
+    color: darkslategray;
+    border: 5 px solid honeydew
+}
+
+table {
+    width: 100%;
+    border-color: honeydew;
+    background-color: darkgreen;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    text-align: center;
+    color: lightgrey;
+    font-family: Verdana;
+    border: 5 px solid honeydew
+}
+
+h1 {
+    text-align: center;
+    background-color: midnightblue;
+    color: mintcream;
+}

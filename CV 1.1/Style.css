@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: lightseagreen;
+    font-family: Verdana;
+    background-color: black;
+    border: red 3px solid;
+}
+
+h2 {
+    padding-left: 20px;
+    color: lightyellow;
+    font-family: fantasy;
+    background-color: darkslategray;
+    border: darkred 1px solid;
+}
+
+p {
+    text-align: center;
+    font-family: Arial;
+}
+
+li {
+    font-family: Arial;
+}
+
+img {
+    float: right;
+}
+
+ul {
+    list-style-type: src="IMG\pngocean.com.png";
+}
